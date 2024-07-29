@@ -12,26 +12,23 @@ L'équipe actuelle du serveur est la suivante :
     - ElGodDakio → Fondateur, Responsable Développement et Développeur
     - valentus → Gestionnaire et Responsable Gameplay
     - Jonas → Responsable Artistique
-    - patapouf → Responsable Réseaux
+    - AnotherBike636 → Responsable Réseaux
     - Madarachi1028 → Responsable STAFF
 
 - **Administration**
     - *Actuellement vide*
 
 - **Haute Modération**
-    - xRoiRoRo YT → Modérateur + 
+    - *Actuellement vide*
     
 - **Modération**
-    - mbappe_le_goad → Modérateur et Équipe Gameplay
-    - AnotherBike636 → Modérateur Test et Équipe Gameplay
-    - predator_7 → Modérateur Réserviste et Équipe Gameplay
+    - *Actuellement vide*
 
 - **STAFF**
-    - bibi team → Guide
-    - kilian mbappé → Guide
+    - *Actuellement vide*
 
 - **Équipe Artistique**
-    - Hugo13 → Builder
+    - *Actuellement vide*
 
 <!--
 **KoenixMC/KoenixMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
